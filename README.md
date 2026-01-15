@@ -21,5 +21,3 @@ Large access counts increase runtime—adjust num_accesses for quick tests
 
 
 
-->License
-    MIT recommended — add a LICENSE file if publishing publicly.
